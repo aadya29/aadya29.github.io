@@ -110,7 +110,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-i-gave-2-talks-at-aas-246-in-phoenix-az",
+          title: 'I gave 2 talks at AAS 246 in Phoenix, AZ!',
+          description: "",
+          section: "News",},{id: "news-attended-tdabench-2026-march-9-12-at-the-skai-institute-the-workshop-focused-on-creating-benchmark-datasets-for-transient-detection-and-classification",
+          title: 'Attended TDABench 2026 (March 9-12) at the SkAI Institute. The workshop focused on...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
