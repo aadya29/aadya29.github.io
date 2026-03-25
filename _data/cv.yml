@@ -1,0 +1,104 @@
+cv:
+  name: Aadya Agrawal
+  label: PhD Candidate in Astronomy
+  email: aadyaa2@illinois.edu
+  location: Urbana-Champaign, IL
+  image: ""
+  summary: PhD candidate in astronomy at the University of Illinois at Urbana-Champaign, working on strongly lensed supernovae, time-delay cosmography, and JWST observations.
+
+  social_networks:
+    - network: GitHub
+      username: aadya29
+    - network: ORCID
+      username: 0009-0008-1965-9012
+
+  sections:
+    Education:
+      - institution: University of Illinois at Urbana-Champaign
+        location: Urbana-Champaign, IL
+        area: Astronomy
+        studyType: Doctor of Philosophy
+        start_date: 2023-08
+        end_date: Present
+        highlights:
+          - "Advisor: Prof. Gautham Narayan"
+          - "GPA: 3.8/4.0"
+          - PhD Candidate as of September 2025
+
+      - institution: University of Michigan
+        location: Ann Arbor, MI
+        area: Physics and Astronomy
+        studyType: Bachelor of Science
+        start_date: 2019-09
+        end_date: 2023-05
+        highlights:
+          - High Honors in Physics and Astronomy
+          - "GPA: 3.64/4.00"
+          - "Honors Thesis Advisor: Dr. Hui Deng"
+
+    Experience:
+      - company: University of Illinois at Urbana-Champaign
+        position: Graduate Researcher
+        location: Urbana-Champaign, IL
+        start_date: 2023-08
+        end_date: Present
+        highlights:
+          - Difference imaging and time-delay measurements for SN H0pe with JWST NIRCam
+          - Lens model testing for PLCK G165.7+67.0 using lensed SN H0pe
+          - SN Ia modelling with BAYESN and SALT3
+          - Cosmological analysis for the SIRAH project combining ground-based and HST data
+          - Mentoring 2 undergraduate students
+
+      - company: University of Michigan – Dept. of Astronomy
+        position: Undergraduate Researcher
+        location: Ann Arbor, MI
+        start_date: 2022-05
+        end_date: 2023-05
+        highlights:
+          - "Advisor: Dr. Joel Bregman"
+          - Cross-matched eFEDS with MCXC and Planck catalogs to identify new X-ray sources
+          - Developed a detection algorithm for SZ peaks in Planck maps to find low-mass galaxy groups and clusters
+
+      - company: University of Michigan – UROP
+        position: Undergraduate Researcher
+        location: Ann Arbor, MI
+        start_date: 2019-09
+        end_date: 2023-05
+        highlights:
+          - "Advisor: Dr. Hui Deng"
+          - Built a microscope transfer stage to fabricate 2D heterostructures
+          - Integrated TMD heterostructures onto 1D photonic crystal nanobeams and characterized them optically
+          - "Honors Thesis: Integration of Van der Waals heterostructures of Transition Metal Dichalcogenides with 1D photonic crystal nanobeams"
+
+      - company: University of Illinois at Urbana-Champaign
+        position: "Teaching Assistant – Astronomy 406: Galaxies and the Universe"
+        location: Urbana-Champaign, IL
+        start_date: 2023-08
+        end_date: 2023-12
+
+      - company: University of Illinois at Urbana-Champaign
+        position: "Teaching Assistant – Astronomy 405: Planetary Science"
+        location: Urbana-Champaign, IL
+        start_date: 2023-01
+        end_date: 2023-05
+
+    Skills:
+      - name: Python
+        level: Expert
+        icon: fa-brands fa-python
+        keywords: "numpy, pandas, matplotlib, seaborn, astropy, scipy"
+
+      - name: Astronomy Software
+        level: Proficient
+        icon: fa-solid fa-star
+        keywords: "BAYESN, SALT3, SNCOSMO, HEALPY, JWST Pipeline, SPACEPHOT, WebbPSF, HOTPANTS, PyZOGY"
+
+      - name: Data Reduction & Analysis
+        level: Proficient
+        icon: fa-solid fa-chart-line
+        keywords: "Difference imaging, photometry, JWST NIRCam"
+
+      - name: LaTeX
+        level: Expert
+        icon: fa-solid fa-file-alt
+        keywords: "Research papers, academic documents"
