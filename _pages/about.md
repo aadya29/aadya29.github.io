@@ -17,12 +17,12 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: false
-
-latest_posts:
   enabled: true
   scrollable: true
   limit: 3
+
+latest_posts:
+  enabled: false
 ---
 
 I am a PhD candidate in the Department of Astronomy at the University of Illinois at Urbana-Champaign, working with Prof. Gautham Narayan. I became a PhD candidate in September 2025. My research sits at the intersection of observational cosmology, gravitational lensing, and time-domain astronomy.
