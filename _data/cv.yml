@@ -44,9 +44,9 @@ cv:
         end_date: Present
         highlights:
           - Difference imaging and time-delay measurements for SN H0pe with JWST NIRCam
-          - Lens model testing for PLCK G165.7+67.0 using lensed SN H0pe
+          - Lens model testing for PLCK G165.7+67.0 using lensed SN H0pe (published in ApJ)
           - SN Ia modelling with BAYESN and SALT3
-          - Cosmological analysis for the SIRAH project combining ground-based and HST data
+          - Cosmological analysis for the SIRAH (Supernovae in the InfRAred Avec Hubble) project combining ground-based and HST data
           - Mentoring 2 undergraduate students
 
       - company: University of Michigan – Dept. of Astronomy
@@ -81,6 +81,56 @@ cv:
         location: Urbana-Champaign, IL
         start_date: 2023-01
         end_date: 2023-05
+
+    Awards:
+      - title: Chambliss Astronomy Award (Undergraduate Category)
+        date: "2023"
+        awarder: American Astronomical Society
+
+      - title: Graduate Student Fellowship
+        date: "2025"
+        awarder: Center for Astrophysical Surveys & The NSF-Simons Institute for the Sky (SkAI)
+        summary: 2025–26 academic year
+
+      - title: IPAC Visiting Graduate Student Fellowship
+        date: "2027"
+        awarder: Caltech
+
+    Telescope Time:
+      - label: "Que SIRAH: Completing the Low-Redshift NIR Supernova Anchor for Roman"
+        details: "HST Cycle 34 (PID 18377), Principal Investigator — 14 primary HST orbits. Templates to reduce host contamination in SIRAH SN photometry, completing the NIR anchor for Roman."
+
+      - label: Taking Aim at Precision Cosmology with SN Atalanta
+        details: "JWST Cycle 4 DDT (PID 12774), Principal Investigator — 3.4 hrs JWST NIRCam + 4 HST orbits. DDT follow-up of a VENUS-discovered lensed SN IIP to measure time delays and H₀."
+
+      - label: Setting the Clock for the First Future Lensed Supernova Reappearance Beyond z=2
+        details: "JWST Cycle 5 DDT (PID 12782), Co-Investigator (PI: Fujimoto) — 9.3 hrs JWST NIRCam + NIRSpec. Follow-up of a z ~ 3–4 cluster-lensed SN with a predicted future reappearance, opening time-delay H₀ cosmography beyond z=2 for the first time."
+
+      - label: "LensTrove: Unlocking the Cosmological Power of Cluster-lensed Supernovae"
+        details: "HST Cycle 34 (PID 18395), Co-Investigator (PI: Larison) — 27 primary HST orbits + 21.90 hrs JWST. ToO observations of 3 glSNe for a < 2.5% H₀ measurement, enabling a > 3σ statement on the Hubble Tension."
+
+      - label: Completing a Legacy Dataset with Deep HST Imaging of 121 Nearby Star-Forming Galaxies
+        details: "HST Cycle 34 (PID 18338), Co-Investigator (PI: Kilpatrick) — 193 primary + 138 parallel spacecraft orbits."
+
+      - label: Catching Eos by the Tail
+        details: "JWST Cycle 5 (PID 12299), Co-Investigator (PI: Coulter) — 29.2 hrs JWST NIRSpec. Spectroscopic follow-up of lensed SN Eos during radioactive decline to measure ejecta velocity and metallicity."
+
+      - label: "Requiem's Return: Precision Cosmology from a Decade-Delayed, Strongly-Lensed Supernova and Its New Sibling"
+        details: "HST Cycles 33 & 34 (PID 18069), Co-Investigator (PI: Pierel) — 14 (C33) + 12 (C34) HST orbits + 25.80 hrs JWST. Monitoring for Requiem's return and obtaining follow-up observations."
+
+      - label: "Standard-ish Candles: Measuring SN Ia Luminosity Drift at z > 3"
+        details: "JWST Cycle 5 (PID 12146), Co-Investigator (PI: Pierel) — 120.9 primary spacecraft hours. Building a z ≳ 3 SN Ia sample via 5 ToOs to test luminosity drift and constrain bias below Roman precision."
+
+    Mentoring:
+      - label: Ruixing (Ray) Liang
+        details: "Undergraduate, UIUC (Jan 2025 – Present) — Testing and validation of Photo-z methods for LSST"
+
+      - label: Tanmay Raswant
+        details: "Undergraduate, UIUC (Jan 2025 – Present) — Cosmological analysis of ground-based data for SIRAH"
+
+    Professional Experience:
+      - label: "JWST Summer School: High Redshift Transients"
+        details: Space Telescope Science Institute, Baltimore, MD (Aug 2025)
 
     Skills:
       - name: Python
